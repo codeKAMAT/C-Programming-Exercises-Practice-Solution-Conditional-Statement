@@ -1,4 +1,4 @@
-/*2. Write a C program to check whether a given number is even or odd. Go to the editor
+/*2. Write a C program to check whether a given number is even or odd. 
 Test Data : 15
 Expected Output :
 15 is an odd integer*/
