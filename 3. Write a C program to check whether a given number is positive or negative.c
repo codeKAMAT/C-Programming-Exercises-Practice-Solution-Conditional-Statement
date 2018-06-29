@@ -1,4 +1,4 @@
-/*3. Write a C program to check whether a given number is positive or negative. Go to the editor
+/*3. Write a C program to check whether a given number is positive or negative. 
 Test Data : 15
 Expected Output :
 15 is a positive number
