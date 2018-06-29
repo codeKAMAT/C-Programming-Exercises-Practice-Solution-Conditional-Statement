@@ -1,4 +1,4 @@
-/*4. Write a C program to find whether a given year is a leap year or not. Go to the editor
+/*4. Write a C program to find whether a given year is a leap year or not. 
 Test Data : 2016
 Expected Output :
 2016 is a leap year.*/
