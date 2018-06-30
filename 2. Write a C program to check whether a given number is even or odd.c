@@ -5,11 +5,11 @@ Expected Output :
 #include<stdio.h>
 void main()
 {
-  int num;
+  int n;
   printf("Enter the number\n");
-  scanf("%d",&num);
-  if(num%2==0)
-  printf("%d is even\n",num);
+  scanf("%d",&n);
+  if(n%2==0)
+  printf("%d is even\n",n);
   else
-  printf("%d is odd\n",num);
+  printf("%d is odd\n",n);
 }
