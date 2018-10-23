@@ -1,4 +1,4 @@
-/*10. Write a C program to find the eligibility of admission for a professional course based on the following criteria: Go to the editor
+/*10. Write a C program to find the eligibility of admission for a professional course based on the following criteria:
 Marks in Maths >=65
 Marks in Phy >=55
 Marks in Chem>=50
